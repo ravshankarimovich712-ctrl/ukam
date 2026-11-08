@@ -1,0 +1,6 @@
+{
+  "name": "Ukamni Bilimli Qilamiz",
+  "description": "Bolalar uchun interaktiv matematika, mantiqiy o'yinlar, topishmoqlar va coin yig'ish ta'lim platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
